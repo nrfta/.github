@@ -1,14 +1,10 @@
-## Asana Ticket Link
+## Linear Ticket Link
 
-<!-- Link to Asana -->
+<!-- Link to Linear -->
 
 ## Description
 
 <!-- A summary of the changes and the related issue. Please also include relevant motivation and context. -->
-
-## Changes
-
-<!-- What changes does this PR introduce?  -->
 
 ## How did you test the changes?
 
